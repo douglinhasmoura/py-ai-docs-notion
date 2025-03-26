@@ -1,0 +1,7 @@
+gradio
+langchain
+langchain_community
+langchain_core
+langchain_google_genai
+python-dotenv
+Requests
