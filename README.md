@@ -70,7 +70,7 @@ Gradio will launch a local interface
 
 ## 📁 Project Structure
 
-```
+```python
  py-ai-docs-notion/
     ├── src/
        ├── chroma/
@@ -93,10 +93,14 @@ Gradio will launch a local interface
             ├── notion.py
             └── text_processor.py
         __init__.py
-    ├── app.py                # Main Gradio chat app
-    ├── 
-    ├── .env                  # API keys (gitignored)
-    ├── chroma_storage/       # ChromaDB data
-    └── README.md             # This file
+    ├── app.py
+    ├── main.py
+    ├── .env.example
+    ├── requirements.txt
+    └── README.md
 
-    ```
+```
+
+🤝 Collaborators:
+
+[Douglas Moura](https://github.com/douglinhasmoura)
