@@ -23,8 +23,8 @@ This Python application lets you query your Notion pages in natural language and
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/notion-gemini-chat.git
-cd notion-gemini-chat
+git clone [https://github.com/your-username/notion-gemini-chat.git](https://github.com/douglinhasmoura/py-ai-docs-notion)
+cd py-ai-docs-notion
 ```
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
